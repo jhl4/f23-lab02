@@ -1,3 +1,4 @@
+//import decides which functions / interfaces we can access from other modules
 import { Shape } from "./shape"
 
 function newRectangle(width: number, height: number): Shape {
