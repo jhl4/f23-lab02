@@ -12,7 +12,7 @@ public class Main {
         Renderer renderer = new Renderer(rect);
         Renderer renderer2 = new Renderer(circ);
 
-        renderer.draw();
+        renderer.draw(); 
         renderer2.draw();
     }
 }
